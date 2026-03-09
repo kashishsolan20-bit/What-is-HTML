@@ -1,0 +1,5 @@
+HTML (HyperText Markup Language) is used to create the structure of a webpage.
+It tells the browser what to display like text, images, buttons, links, etc.
+
+HTML is made using tags.
+<h1>Hello World</h1>
